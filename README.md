@@ -1,9 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <title>Hello World Example</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Title</title>
 </head>
 <body>
-   <h1>https://omar-osama-ali.github.io/2011/-.html!</h1>
+    <header>
+        <h1>Welcome</h1>
+    </header>
+    <main>
+        <p>Page content goes here.</p>
+    </main>
 </body>
 </html>
